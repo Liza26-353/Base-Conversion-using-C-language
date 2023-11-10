@@ -1,15 +1,17 @@
 # Base-Conversion-using-C-language
 
-## Features:
-### Binary to Octal.                             
-### Binary to Decimal.
-### Binary to Hexadecimal.
-### Octal to Binary.
-### Decimal to Binary.
-### Hexadecimal to Binary.
-### Octal to Decimal.
-### Octal to Hexadecimal.
-### Decimal to Hexadecimal.
-### Decimal to Octal.
-### Hexadecimal to Decimal.
-### system clear press = 0
+
+# Features:
+
+### 1. Binary to Octal.                             
+### 2. Binary to Decimal.
+### 3. Binary to Hexadecimal.
+### 4. Octal to Binary.
+### 5. Decimal to Binary.
+### 6. Hexadecimal to Binary.
+### 7. Octal to Decimal.
+### 8. Octal to Hexadecimal.
+### 9. Decimal to Hexadecimal.
+### 10. Decimal to Octal.
+### 11. Hexadecimal to Decimal.
+### 12. system clear press = 0
