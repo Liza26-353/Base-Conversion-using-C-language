@@ -1,0 +1,4 @@
+Binary to Octal: (101)b = (5)o
+
+Hexadecimal to Decimal: (AAA)hexa = (2730)d
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699642384 source:c:\users\ridoy\desktop\base conversion\main.c
+	<stdio.h>
+	<math.h>
+
